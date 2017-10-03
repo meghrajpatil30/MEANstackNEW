@@ -6,7 +6,7 @@ MEAN stack app
 /model contains user.ts which is for database schema.
 
 
-/serverdata/ServerData.ts contains the functions for fectching data which returns the promises. 
+/serverdata/ServerData.ts contains the functions for fetching data which returns the promises. 
 All these functions  called in /router/UserRouter.ts  
 
   
