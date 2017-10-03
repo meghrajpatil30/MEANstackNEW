@@ -2,7 +2,6 @@ MEAN stack app
 
 /src folder contains all server side files.
 
-/interface
 /model contains user.ts which is for database schema.
 
 
